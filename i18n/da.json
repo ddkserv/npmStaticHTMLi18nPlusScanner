@@ -1,0 +1,6 @@
+{
+  "title": "Dette er titlen på hjemmesiden!",
+  "body": {
+    "context": "Dette er et eksempel afsnit. Alt i taggen <strong>body</strong> vises på siden, ligesom denne <strong>p</strong> tag og dens indhold."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "i18n-my-way",
+  "version": "0.0.2",
+  "description": "npm i18n static with config and scanner",
+  "scripts": {
+    "i18next-scanner": "i18next-scanner --config i18next-scanner.config.js",
+    "static-i18n": "node i18static.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ddkserv/npmStaticHTMLi18nPlusScanner.git"
+  },
+  "license": "ISC",
+  "author": "ddkserv",
+  "devDependencies": {
+    "i18next-scanner": "~2.10.1",
+    "static-i18n": "~0.2.2"
+  }
+}
